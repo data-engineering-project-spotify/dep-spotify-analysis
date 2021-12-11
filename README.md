@@ -21,7 +21,7 @@
 | Average playlist duration                                                                          | 2.91 s                        | 9min 4s                      |
 | Playlist duration histogram                                                                        | 3.46 s                        | 9min 34s                     |
 | Average number of tracks per playlist                                                              | 3.56 s                        | 10min 19s                    |
-| Playlist track count histogram                                                                     | ​​3.16 s                        | 10min 37s                    |
+| Playlist track count histogram                                                                     | 3.16 s                        | 10min 37s                    |
 | Average number of albums per playlist                                                              | 2.32 s                        | 9min 43s                     |
 | Playlist album count histogram                                                                     | 2.47 s                        | 10min                        |
 | Most popular song at playlist position 1, 2 and 3                                                  | 6.08 s                        | 27min 46s                    |
@@ -36,3 +36,15 @@
 | **Search - perform the search**                                                                    |                               |                              |
 | Search a song                                                                                      | 4.06 s                        | 4.67 s                       |
 | Search and show top 5 playlists                                                                    | 5.12 s                        | 5.46 s                       |
+
+## Getting started
+
+#### Challenge dataset
+- Open `Project_Notebook_Final_Challenge.ipynb` file
+- Download [spotify_million_playlist_dataset_challenge.zip](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files?unique_download_uri=739&challenge_id=277) file into the path "{basepath}/data/spotify_million_playlist_dataset_challenge.zip" (Update the `basepath` variable in the third cell as needed)
+- Run the notebook
+
+#### Full dataset
+- Open `Project_Notebook_Final_Full.ipynb` file
+- Download [spotify_million_playlist_dataset.zip](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files?unique_download_uri=738&challenge_id=277) file into the path "{basepath}/data/spotify_million_playlist_dataset_challenge.zip" (Update the `basepath` variable in the third cell as needed)
+- Run the notebook
