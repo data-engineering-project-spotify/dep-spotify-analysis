@@ -5,10 +5,10 @@
 - Dataset details - https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge
 - Dataset - https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files
 
-|                   | Compressed (zip) | Uncompressed | No. of playlists | Link |
-| ----------------- | ---------------- | ------------ | ---------------- | ---- |
-| Challenge dataset | 113.3 MB         | 332.2 MB     | 10k              | [spotify_million_playlist_dataset_challenge.zip](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files?unique_download_uri=739&challenge_id=277) |
-| Full dataset      | 5.79 GB          | 33.54 GB     | 1 million        | [spotify_million_playlist_dataset.zip](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files?unique_download_uri=738&challenge_id=277) |
+|                   | Compressed (zip) | Uncompressed | No. of playlists | Total rows | Total unique tracks | Link |
+| ----------------- | ---------------- | ------------ | ---------------- | ---------- | ------------------- | ---- |
+| Challenge dataset | 113.3 MB         | 332.2 MB     | 10k              | 281k       | 66k                 | [spotify_million_playlist_dataset_challenge.zip](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files?unique_download_uri=739&challenge_id=277) |
+| Full dataset      | 5.79 GB          | 33.54 GB     | 1 million        | 66 million | 23 million          | [spotify_million_playlist_dataset.zip](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files?unique_download_uri=738&challenge_id=277) |
 
 ## Time taken
 
