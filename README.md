@@ -47,4 +47,4 @@
 #### Full dataset
 - Open `Project_Notebook_Final_Full.ipynb` file
 - Download [spotify_million_playlist_dataset.zip](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files?unique_download_uri=738&challenge_id=277) file into the path "{basepath}/data/spotify_million_playlist_dataset_challenge.zip" (Update the `basepath` variable in the third cell as needed)
-- Run the notebook
+- Run the notebook. Since this is the full dataset, it takes around 3-4 hours to run.
